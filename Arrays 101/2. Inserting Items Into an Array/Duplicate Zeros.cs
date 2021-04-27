@@ -1,6 +1,6 @@
 using System;
 using System.Linq;
-public partial class CompletedSolution {
+public partial class Arrays101Solution {
     public void DuplicateZeros(int[] arr) {
         int shift = 0;
         int[] newArr = arr.ToArray();

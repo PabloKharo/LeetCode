@@ -1,5 +1,5 @@
 using System;
-public partial class CompletedSolution {
+public partial class Arrays101Solution {
     public int FindNumbers(int[] nums) {
         int q = 0;
         foreach(int num in nums){

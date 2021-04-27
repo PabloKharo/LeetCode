@@ -1,5 +1,5 @@
 using System;
-public partial class CompletedSolution {
+public partial class Arrays101Solution {
     public int FindMaxConsecutiveOnes(int[] nums) {
         int maxCons = 0;
         int curCons = 0;

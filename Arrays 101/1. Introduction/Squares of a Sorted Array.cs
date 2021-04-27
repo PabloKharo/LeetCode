@@ -1,5 +1,5 @@
 using System;
-public partial class CompletedSolution {
+public partial class Arrays101Solution {
     public int[] SortedSquares(int[] nums) {
         int divider = -1;
         for(int i = 0; i < nums.Length; i++){

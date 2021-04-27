@@ -1,7 +1,7 @@
 using System;
 using System.Linq;
 
-public partial class CompletedSolution {
+public partial class Arrays101Solution {
     public void Merge(int[] nums1, int m, int[] nums2, int n) {
         int f = m - 1;
         int s = n - 1;
