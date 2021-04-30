@@ -1,6 +1,6 @@
 using System;
 
-public partial class CompletedSolution {
+public partial class AprilSolution {
     public void Rotate(int[][] matrix) {    
         for(int i = 0; i < matrix.Length / 2; i++){
             int side = matrix[i].Length - 1 - i;
