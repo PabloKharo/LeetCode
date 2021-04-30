@@ -1,2 +1,2 @@
 # LeetCode
- Решенные задачки с LeetCode
+:memo:[Мой профиль](https://leetcode.com/PabloKharo/)
